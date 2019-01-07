@@ -15,6 +15,6 @@ The programmer is the SPI programming tool to program the board/chip. This would
 To burn the bootloader, connect the SPI programming tool and navigate to Tools->burn bootloader. The programmer will then try and burn the bootloader to the chip. When it's successful, the programmer can be disconnected and the Arduino can be programmed var the serial. 
 
 ## References
-[https://todbot.com/blog/2009/05/26/minimal-arduino-with-atmega8/](https://todbot.com/blog/2009/05/26/minimal-arduino-with-atmega8/)
-[https://www.arduino.cc/en/Tutorial/ArduinoISP](https://www.arduino.cc/en/Tutorial/ArduinoISP)
-[http://ediy.com.my/index.php/tutorials/item/94-arduino-running-at-8mhz-internal-clock-with-optiboot-bootloader/94-arduino-running-at-8mhz-internal-clock-with-optiboot-bootloader](http://ediy.com.my/index.php/tutorials/item/94-arduino-running-at-8mhz-internal-clock-with-optiboot-bootloader/94-arduino-running-at-8mhz-internal-clock-with-optiboot-bootloader)
+- [https://todbot.com/blog/2009/05/26/minimal-arduino-with-atmega8/](https://todbot.com/blog/2009/05/26/minimal-arduino-with-atmega8/)
+- [https://www.arduino.cc/en/Tutorial/ArduinoISP](https://www.arduino.cc/en/Tutorial/ArduinoISP)
+- [http://ediy.com.my/index.php/tutorials/item/94-arduino-running-at-8mhz-internal-clock-with-optiboot-bootloader/94-arduino-running-at-8mhz-internal-clock-with-optiboot-bootloader](http://ediy.com.my/index.php/tutorials/item/94-arduino-running-at-8mhz-internal-clock-with-optiboot-bootloader/94-arduino-running-at-8mhz-internal-clock-with-optiboot-bootloader)
